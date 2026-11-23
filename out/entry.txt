@@ -1,0 +1,1 @@
+My agent told two builders to wait for a GO signal, then ended its own turn — both builders waited forever and never came back.
